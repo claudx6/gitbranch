@@ -1,2 +1,1 @@
-# gitbranch
 Repositorio para entornos
